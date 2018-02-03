@@ -1,0 +1,15 @@
+{
+    "_comment": "this config is for your local system",
+    "database":{
+        "host": "Localhost",
+        "user": "abstar",
+        "password": "nTWwqHFNIadLVUb7",
+        "database": "abstar"
+    },
+
+    "server_settings":{
+        "system": "localhost",
+        "email": "leon.fuessner@hotmail.de",
+        "port": "3000"
+    }
+}
